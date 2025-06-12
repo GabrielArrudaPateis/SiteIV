@@ -4,13 +4,11 @@ body{
 }
 h1{
     font-size: xx-large;
-    font-style: italic;
     color: darkblue;
 }
 h3{
-    font-size: x-large;
+    font-size: large;
     color: darkorange;
-    font-style: italic;
 }
 .Bolsonaro1{
     width: 25%;
@@ -22,10 +20,9 @@ h3{
     width: 25%;
 }
 h2{
-    font-size: xx-large;
-    color: darkorange;
-    font-style: italic;
+    font-size: x-large;
+    color: rgb(0, 71, 10);
 }
 .MORAIS{
-    color: darkorange;
+    color: rgba(255, 251, 0, 0.555);
 }
