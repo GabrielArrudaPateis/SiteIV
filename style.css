@@ -1,4 +1,5 @@
 body{
+    text-align: center;
     background-color:rgb(141, 226, 119)
 }
 h1{
@@ -11,10 +12,10 @@ h3{
     color: darkorange;
     font-style: italic;
 }
-Bolsonaro1{
+.Bolsonaro1{
     width: 25%;
 }
-JAIR{
+.JAIR{
     width: 25%;
 }
 h2{
